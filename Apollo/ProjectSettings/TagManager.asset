@@ -12,7 +12,7 @@ TagManager:
   - Water
   - UI
   - Tiles
-  - 
+  - Coind
   - 
   - 
   - 
@@ -44,6 +44,6 @@ TagManager:
   - name: Background
     uniqueID: 1008325765
     locked: 0
-  - name: Tiles
+  - name: Forground
     uniqueID: 1668864669
     locked: 0
