@@ -35,7 +35,6 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
     - UnityEngine.UI.Slider
-    - UnityEngine.UI.Text
   sceneClasses:
     Assets/Scenes/Level 1.unity:
     - Class: 1
@@ -50,33 +49,37 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 2238}
-    - Class: 114
-      Script: {instanceID: 2654}
-    - Class: 114
-      Script: {instanceID: 2818}
-    - Class: 114
-      Script: {instanceID: 3036}
-    - Class: 114
-      Script: {instanceID: 3282}
+      Script: {instanceID: 648}
     - Class: 115
-      Script: {instanceID: 0}
-    - Class: 128
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
       Script: {instanceID: 0}
-    - Class: 222
+    - Class: 212
       Script: {instanceID: 0}
-    - Class: 223
+    - Class: 213
       Script: {instanceID: 0}
-    - Class: 224
+    - Class: 156049354
+      Script: {instanceID: 0}
+    - Class: 483693784
+      Script: {instanceID: 0}
+    - Class: 1839735485
       Script: {instanceID: 0}
     Assets/Scenes/Start Menu.unity:
     - Class: 1
@@ -872,4 +875,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Start Menu.unity
   - Assets/Scenes/Level 1.unity
-  playerPath: D:/Projects/GitHub/Apollo-Unity/Apollo/Builds/Apollo.exe
+  playerPath: D:/Projects/GitHub/Apollo-Unity/Apollo/Builds/27.08.21/Apollo.exe
